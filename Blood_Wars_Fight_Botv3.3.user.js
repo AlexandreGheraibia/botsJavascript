@@ -2195,7 +2195,7 @@ function dspMenuNewFight(){
     }
 }
 
-function whereIam(){
+function whereAmI(){
     if(estSurArcaneAttaque()){
         GM_setValue(location.origin + getNameJoueur() + "nbAttaquesMax", getNbAttaquesMax());
         GM_setValue(location.origin + getNameJoueur() + "nbAttaquesRetantes", getNbAttaquesRestantes());
@@ -2258,5 +2258,5 @@ if(isFightBOTRunning()){
     runAttackBot();
 }
 
-whereIam();
+whereAmI();
 dspMenuNewFight();
