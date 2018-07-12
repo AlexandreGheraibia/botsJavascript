@@ -1,4 +1,4 @@
-# botsJavascript pour temperMokey
+# botsJavascript pour tampermonkey
 
 Deux projets de bot pour un jeu sur des pages web.
 
