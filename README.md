@@ -9,10 +9,10 @@ ils ont un système de configuration,
                    une interface graphique (s'appuyant sur le css) se fondant dans celle du site.
                     
 Le bot pour les quêtes a un système de changement d'équipement pour les quêtes.
-Il a aussi un systeme d'analyse de le qualité des objets trouvés avec une notification quand l'objet est interessant.
+Il a aussi un systeme d'analyse de le qualité des objets trouvés avec une notification quand l'objet est intéressant.
 
-Le bot pour les combats a un système de gestion de liste d'adversaire.
+Le bot pour les combats a un système de gestion de liste d'adversaires.
 
 Le bot pous les quêtes est la reprise d'un système existant auquel j'ai ajouté des fonctionnalités.
-Le bot pour les attaques est un sytème que j'ai conçu en m'appuyant sur le botpour les quêtes.
+Le bot pour les attaques est un sytème que j'ai conçu en m'appuyant sur le bot pour les quêtes.
                                       
