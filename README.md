@@ -11,7 +11,7 @@ ils ont un système de configuration,
 Le bot pour les quêtes a un système de changement d'équipement.
 Il a aussi un systeme d'analyse de le qualité des objets trouvés avec une notification quand l'objet est intéressant.
 
-Le bot pour les combats a un système de gestion de liste d'adversaires.
+Le bot pour les combats a un système de gestion de liste d'adversaires, de sauvegarde des configurations utilisateurs.
 
 Le bot pour les quêtes est la reprise d'un système existant auquel j'ai ajouté des fonctionnalités.
 Le bot pour les attaques est un sytème que j'ai conçu en m'appuyant sur le bot pour les quêtes.
